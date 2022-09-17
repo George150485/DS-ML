@@ -1,0 +1,4 @@
+Numpy.Numerical Computation in Python: responsible for numberical technics and is a cornerstone for other libraries, has multi-dimentional arrays, linear algebra and can an alternative to matlap 
+Scipy.Scietific Computation in Python: statistics inсludіng ѕіgnаl рrосеѕѕіng, орtіmіzаtіоn..etc.
+Skitlearn.Machine Learning in Python: built up-on numpy, scipy and matplotlib
+Pandas.Python Data Analytics: reading from the database act as a spreadsheet
